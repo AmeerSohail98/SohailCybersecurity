@@ -8,4 +8,5 @@ Technical skills:Python, Linux, Kali linux, SQL,Splunk
 ## Worked as manual tester for asset management application in robotico digital
 ### Certifications
 -Google professional cybersecurity certification
+
 -Ethical hacking internship certificate from Techobytes institution.
