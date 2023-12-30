@@ -5,7 +5,9 @@ Technical skills:Python, Linux, Kali linux, SQL,Splunk
 .Diploma in EEE
 .B.tech in EEE
 ### Work experience
-## Worked as manual tester for asset management application in robotico digital
+
+Worked as manual tester for asset management application in robotico digital
+
 ### Certifications
 -Google professional cybersecurity certification
 
